@@ -6,7 +6,7 @@
       "name": "Electron Main",
       "program": "${workspaceFolder}/main.js",
       "request": "launch",
-      "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron",
+      "runtimeExecutable": "${workspaceFolder}/dist/my-editor/shell.js",
       "skipFiles": [
         "<node_internals>/**"
       ],
